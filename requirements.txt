@@ -1,0 +1,6 @@
+kivy[full]
+sounddevice
+numpy
+speech_recognition
+wave
+io
